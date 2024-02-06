@@ -3,7 +3,7 @@ import path from "path";
 import { fileURLToPath } from "url";
 
 const server = express();
-const port = 5000;
+const port = 5001;
 
 // export to .env files before pushing to prod
 const env = "development";
